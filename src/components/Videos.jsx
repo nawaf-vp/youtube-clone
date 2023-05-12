@@ -8,7 +8,7 @@ const Videos = ({videos}) => {
     <Stack direction={"row"}
            flexWrap={"wrap"}
            justifyContent={"start"}
-           gap={2}
+           gap={3}
            sx={{backgroundColor:'#242526'}}
            >
         {videos.map((item, idx)=>(
