@@ -26,7 +26,7 @@ console.log(channelDetail);
 
 console.log( videos );
   return (
-    <Box minHeight="95vh">
+    <Box      sx={{backgroundColor:'#242526'}} minHeight="95vh">
     <Box>
       <div style={{
         height:'300px',
