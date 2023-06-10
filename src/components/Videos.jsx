@@ -12,8 +12,8 @@ const Videos = ({videos}) => {
            sx={{backgroundColor:'#242526'}}
            >
         {videos.map((item, idx)=>(
-            <Box key={idx} sx={{width: { xs: '100%', sm: '318px'}, boxShadow:'5px 5px 20px #030303'}}>
-               {item.id.videoId && <VideoCard video={item}/>}
+            <Box key={idx}  sx={{width: { xs: '100%', sm: '318px' } /* , boxShadow:'5px 5px 20px #030303' */}}>
+               {item.id.videoId && <VideoCard video={item} />}
                {item.id.channelId && <ChannelCard channelDetail={item}/>}
             </Box>
         ))}
