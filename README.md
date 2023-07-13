@@ -27,5 +27,5 @@
 
 ### Homepage
 
-![chrome_FEagL9ebqh](https://user-images.githubusercontent.com/39136324/230771817-54448285-0bb1-46a9-8508-aad9077d5015.png)
+![Screenshot 2023-07-13 222638](https://github.com/nawaf-vp/youtube-clone/assets/102661016/f381d97d-4117-410e-90c0-9792a4df4e07)
 
