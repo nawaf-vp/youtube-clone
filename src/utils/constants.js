@@ -12,7 +12,7 @@ import TheaterComedyIcon from '@mui/icons-material/TheaterComedy';
 import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
 import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
 
-export const logo = 'https://www.gstatic.com/youtube/img/promos/growth/68970748ad2a01f2bae57f108ded48b852eee6659b7ad665e0bf751ad7de3e11_122x56.webp';
+export const logo = 'Youtube-Logo-PNG.png';
 
 //sidebar icons
 export const categories = [
