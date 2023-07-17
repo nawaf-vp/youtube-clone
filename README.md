@@ -5,7 +5,7 @@
 ## Table of Contents
 - [Features](#features)
 - [TechStack](#techstack)
-- [Screens](#screens)
+- [Screen](#screens)
 
 ## Features
 - User-friendly interface for better user experience.
